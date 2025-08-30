@@ -61,28 +61,7 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				},
-				mustang: {
-					red: 'hsl(var(--mustang-red))',
-					gold: 'hsl(var(--mustang-gold))',
-					dark: 'hsl(var(--mustang-dark))',
-					gray: 'hsl(var(--mustang-gray))',
-					'light-gray': 'hsl(var(--mustang-light-gray))'
 				}
-			},
-			fontFamily: {
-				heading: ['Orbitron', 'Arial Black', 'sans-serif'],
-				body: ['Inter', 'Segoe UI', 'sans-serif'],
-			},
-			backgroundImage: {
-				'gradient-hero': 'var(--gradient-hero)',
-				'gradient-card': 'var(--gradient-card)',
-				'gradient-accent': 'var(--gradient-accent)',
-			},
-			boxShadow: {
-				'glow': 'var(--shadow-glow)',
-				'card': 'var(--shadow-card)',
-				'gold': 'var(--shadow-gold)',
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
